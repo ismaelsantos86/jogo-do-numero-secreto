@@ -86,12 +86,4 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-// testando commit do git e github
-//novo teste
-
-
-
-
-
-
 
