@@ -87,6 +87,8 @@ function reiniciarJogo() {
 }
 
 // testando commit do git e github
+//novo teste
+
 
 
 
